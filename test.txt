@@ -1,3 +1,5 @@
 Line 1 main
 line 2 main
 
+Line 1 main.
+line 2 feature2.
