@@ -1,4 +1,4 @@
-Line 1 main
+Line 1 main - make confilict
 Hello from m makhlouf
 Line 1 main-merge feature2 to main branch.
 Line 1 main 
